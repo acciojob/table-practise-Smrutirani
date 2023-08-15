@@ -3,3 +3,7 @@ table,tr,th,td{
 	background: yellow;
 	border: 1px solid black;
 }
+th, td{
+	border-top:2px solid black;
+	border-left:2px solid black;
+}
