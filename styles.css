@@ -1,16 +1,6 @@
 /*  your css code here. If applicable */
-/* table,tr,th,td{
+table,tr,th,td{
 	background: yellow;
-	border: 1px solid rgb(0, 0, 0);
-	border-right: 2px solid black;
-	border-bottom: 2px solid black;
-/* 	width:100%; */
-
-th, td{
 	border: 1px solid black;
-/* 	border-top:2px solid black;
-	border-left:2px solid black; */
-}
-
-	
+	}
 	
